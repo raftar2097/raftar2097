@@ -1,5 +1,7 @@
 ### Hello World, I'm Rishab Agarwala. <img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 I am a fullstack software engineer from India  🚀
+- Highly interested in working on new problems
+- Hold BTECH degree from NIT-SILCHAR with specialization in Computer Science  🚀
 <br />
 This are some of my recent works
 <br/>
