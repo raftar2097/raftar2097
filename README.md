@@ -1,5 +1,5 @@
-### Hello World, I'm Shubham Vashishtha. <img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-I am a fullstack software engineer from India 🚀
+### Hello World, I'm Rishab Agarwala. <img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+I am a fullstack software engineer from India  🚀
 <br />
 <a href="https://www.linkedin.com/in/raftar2097">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" align="center" width="40px" alt="<Linkedin"/>
